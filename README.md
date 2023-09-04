@@ -1,1 +1,1 @@
-A simple Command Line Interface tool written in Go Lang 
+A simple Command Line Interface tool written in Go Lang.
